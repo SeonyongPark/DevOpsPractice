@@ -6,6 +6,7 @@ uri="http://java.sun.com/jsp/jstl/fmt"%>
     <hr />
     <h1>${msg}</h1>
     <h1>Park SeonYong's DevOps Test</h1>
+    <h1>More Test</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
   </body>
