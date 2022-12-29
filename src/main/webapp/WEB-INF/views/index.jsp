@@ -6,5 +6,6 @@ uri="http://java.sun.com/jsp/jstl/fmt"%>
     <h2>hello ssafy!</h2>
     <h2>hello ssafy!</h2>
     <h2>hello ssafy!</h2>
+    <h1>ansible</h1>
   </body>
 </html>
