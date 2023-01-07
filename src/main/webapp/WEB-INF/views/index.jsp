@@ -2,6 +2,7 @@
 uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
   <body>
+    <h1>seokmoade</h1>
     <h2>hello ssafy!</h2>
     <h2>hello ssafy!</h2>
     <h2>hello ssafy!</h2>
