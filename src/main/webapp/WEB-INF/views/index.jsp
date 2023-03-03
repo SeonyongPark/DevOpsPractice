@@ -16,5 +16,6 @@ uri="http://java.sun.com/jsp/jstl/fmt"%>
     <h2>TestTestTest</h2>
     <h2>TestTestTest</h2>
     <h2>TestTestTest</h2>
+    <h1>version 2.0</h1>
   </body>
 </html>
